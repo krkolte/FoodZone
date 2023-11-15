@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "full": "FoodZone",
+    "initials": "RNB"
+  },
+  "popular": "Popular Restourants",
+  "greatSpots": "Great Spots Near You",
+  "Empty_Fields_Msg": "Please fill out the required fields.",
+  "Logout": "Logout",
+  "Sure_Hint": "Are you sure ?",
+  "Cancel": "Cancel",
+  "Confirm": "Confirm",
+  "Checkout": "Checkout",
+  "Added_Items": "Added Items",
+  "Success": "Success",
+  "Order_Placed": "Your order has been placed successfully !",
+  "Got_it": "Got it"
+}

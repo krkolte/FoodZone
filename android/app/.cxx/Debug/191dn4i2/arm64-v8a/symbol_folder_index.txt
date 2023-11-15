@@ -1,0 +1,1 @@
+/Users/apple/Documents/Projects/RN_PROJECTS/SenseHawk/FoodZone/android/app/build/intermediates/cxx/Debug/191dn4i2/obj/arm64-v8a

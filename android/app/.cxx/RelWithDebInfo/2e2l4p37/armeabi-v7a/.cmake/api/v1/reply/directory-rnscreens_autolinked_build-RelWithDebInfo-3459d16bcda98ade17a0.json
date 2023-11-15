@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "rnscreens_autolinked_build",
+		"source" : "/Users/apple/Documents/Projects/RN_PROJECTS/SenseHawk/FoodZone/node_modules/react-native-screens/android/src/main/jni"
+	}
+}

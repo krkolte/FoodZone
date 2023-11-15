@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.0.0/f2702b5ca13df54e3ca92f29d6b403fb6285d8df/cli-2.0.0-all.jar",
+  "packages": [
+    "/Users/apple/.gradle/caches/transforms-3/8637a6b8e922edd4e8616b896f7e8050/transformed/jetified-react-android-0.72.1-debug/prefab",
+    "/Users/apple/.gradle/caches/transforms-3/756a281a5b23f3b4833f941eb408abb6/transformed/jetified-fbjni-0.3.0/prefab",
+    "/Users/apple/.gradle/caches/transforms-3/c8b3893ae038971f0bdad83a7eb8b705/transformed/jetified-hermes-android-0.72.1-debug/prefab",
+    "/Users/apple/Documents/Projects/RN_PROJECTS/SenseHawk/FoodZone/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/debug/prefab"
+  ]
+}

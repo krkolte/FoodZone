@@ -1,0 +1,10 @@
+{
+  "email": "Email",
+  "fullname": "Full Name",
+  "password": "Password",
+  "cnfPassword": "Confirm Password",
+  "login": "Login",
+  "signup": "Signup",
+  "noAccount": "Don't have account ?",
+  "alreadyAccount": "Already have account ?"
+}
